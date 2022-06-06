@@ -1,0 +1,17 @@
+{
+	"version": "0.0.1",
+	"title": "Reed theme",
+	"description": "Changes your blog to use the Reed theme. Set the built-in design to Blank.",
+	"fields": [
+		{
+			"field": "params.subtitle",
+			"label": "Subtitle",
+			"placeholder": "Enter your subtitle here"
+		},
+		{
+			"field": "params.description",
+			"label": "Description",
+			"placeholder": "Enter your description here"
+		}
+	]
+}

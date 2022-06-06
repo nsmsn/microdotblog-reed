@@ -1,0 +1,15 @@
+# theme.toml template for a Hugo theme
+# See https://github.com/spf13/hugoThemes#themetoml for an example
+
+name = "Reed"
+license = "MIT"
+licenselink = "https://github.com/nsmsn/microdotblog-reed/blob/main/LICENSE.md"
+description = "A theme based on the Micro.blog port of the Hugo-Tufte theme, with styles customized by Nick Simson"
+homepage = "https://github.com/nsmsn/microdotblog-reed/"
+tags = ["blog", "minimal"]
+features = ["blog", ""]
+min_version = 0.20
+
+[author]
+  name = "Nick Simson"
+  homepage = "https://nicksimson.com"
